@@ -913,6 +913,15 @@ nav[data-toggle=toc] .nav-link.active:hover {
   color: var(--global-danger-block-title);
 }
 
+.poem {
+  font-family: Garamond, serif;
+  white-space: pre-line; /* Preserves newlines in the paragraph */
+}
+
+b {
+  font-weight: bold;
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/

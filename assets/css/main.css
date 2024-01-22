@@ -918,6 +918,11 @@ nav[data-toggle=toc] .nav-link.active:hover {
   white-space: pre-line; /* Preserves newlines in the paragraph */
 }
 
+.tba {
+  color: gray;
+  font-style: italic;
+}
+
 b {
   font-weight: bold;
 }

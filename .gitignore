@@ -11,3 +11,7 @@ assets/libs/
 node_modules/
 vendor
 .idea
+todo.txt
+gallery-generator.py
+poem_posts_drafts
+post_drafts

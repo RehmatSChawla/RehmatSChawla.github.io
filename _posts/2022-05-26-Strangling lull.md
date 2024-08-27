@@ -2,7 +2,7 @@
 layout: post
 title:  Strangling lull
 date:   2022-05-26 17:30:00
-description: TBA
+description:
 tags: poetry
 giscus_comments: true
 related_posts: true

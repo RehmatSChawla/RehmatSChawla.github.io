@@ -2,7 +2,7 @@
 layout: post
 title:  About writing poems on spit
 date:   2022-09-18 17:30:00
-description: TBA
+description: Why do we write? Who do you write for?
 tags: poetry
 giscus_comments: true
 related_posts: true

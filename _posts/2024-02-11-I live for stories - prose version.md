@@ -3,7 +3,7 @@ layout: post
 title:  I live for stories
 date:   2024-07-17 17:30:00
 description: A homage to my many reasons to love life
-tags: poetry, prose
+tags: poetry prose
 giscus_comments: true
 related_posts: true
 ---

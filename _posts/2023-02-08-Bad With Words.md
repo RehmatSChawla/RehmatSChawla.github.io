@@ -6,6 +6,7 @@ description: I'm supposed to be good with language, as a poet and avid reader. B
 tags: poetry
 giscus_comments: true
 related_posts: true
+featured: true
 ---
 
 <div class="poem">

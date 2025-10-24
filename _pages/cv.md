@@ -7,14 +7,14 @@ description: My Curriculum Vitae, detailing my research, projects and other expe
 nav_order: 4
 nav: true
 # cv_pdf: CV.pdf
-# redirect_to: https://tinyurl.com/RehmatCV
+# redirect_to: https://tinyurl.com/Rehmat-CV
 # toc:
 #   sidebar: left
 ---
 
 <!-- https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/view?usp=share_link -->
 <div class="tba">
-In case the PDF does not load, click &nbsp;<button onclick="window.open('https://tinyurl.com/RehmatCV')" class="greenbutton">here</button> to open in a new window.
+In case the PDF does not load, click &nbsp;<button onclick="window.open('https://tinyurl.com/Rehmat-CV')" class="greenbutton">here</button> to open in a new window.
 </div>
 
 
@@ -22,7 +22,7 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 <hr>
 
 <iframe
-  src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/preview"
+  src="https://drive.google.com/file/d/1bfBpSl5gvXLd_SqyuR24o-2Kyuz6dqBY/preview"
   width="100%"
   height="1200px"
   allow="autoplay"

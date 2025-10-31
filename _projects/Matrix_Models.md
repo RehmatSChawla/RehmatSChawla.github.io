@@ -8,14 +8,21 @@ importance: 2
 category: Research
 
 ---
-<!--\href{https://github.com/RehmatSChawla/MCMC-Matrix-Models/blob/main/Presentation.pdf}{Presentation}-->
+<!--\href{}{Presentation}-->
 
 An internship under Dr Victor Mishnyakov, Stockholm University, as part of the NORDITA Summer Internship Program, 2025.
 
 - Using Markov Chain Monte Carlo methods for Matrix Model computations, eg Wilson loops in representations $\mathrm{Sym}^k,\Lambda^k$
 - Studied how supersymmetric localisation connects Wilson loops in $\mathcal N=4$ SYM to Matrix Models
 - Using Wilson loops in large-$N$, large-$k$ limit as a test of the $\mathrm{AdS}$/CFT Correspondence
-\end{newitemize}
+
+
+<iframe
+  src="https://github.com/RehmatSChawla/MCMC-Matrix-Models/blob/main/Presentation.pdf"
+  width="100%"
+  height="1200px"
+  allow="autoplay"
+></iframe>
 
 
 

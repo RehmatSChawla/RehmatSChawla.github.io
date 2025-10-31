@@ -21,11 +21,11 @@ social: false # includes social icons at the bottom of the page
 
 Welcome!<br><br>
 I'm Rehmat, wannabe Physicist, coffee <s>addict</s> lover, and amateur wordsmith.<br>
-I'm currently completing my undergraduate studies in Engineering Physics at <a href="https://www.iitb.ac.in/">IIT Bombay</a>, and hope to pursue a PhD in Physics in the near future.<br><br>
-My research is currently focused on Topological Quantum Field Theories and Medical Imaging, but my interests span a wide variety of fields, including Quantum Field Theories, Lattice Field Theory Simulations, and Quantum Information. I especially enjoy finding connections between different fields, and adapting mathematical and computational techniques across them.<br><br>
+I'm currently working on my Masters thesis at Imperial College London, for my MSc in Physics with Extended Research. Previously, I did an undergraduate in Engineering <a href="https://www.iitb.ac.in/">IIT Bombay</a>. I hope to pursue a PhD in Physics in the near future.<br><br>
+My research is currently focused on Higher Form Electromagnetism and Generalised Symmetries, but I am broadly interested in many arts of Theoretical Fundamental Physics. Some topics I would mention are symmetries, topological theories, anomalies and RG flows. I also want to learn about non-perturbative effects, quantisation and formal topics like algebraic QFT. That said, I also make sure to continue learning about the gravity side of Physics. I especially enjoy finding connections between different fields, and adapting mathematical and computational techniques across them.<br><br>
 When not buried in Physics or code, you might find me reading, writing poetry, or brewing coffee. Explore this website for a taste of my life and work!
 
-<div class="tba">This website is under construction, some pages might be incomplete. Please check back soon! </div>
+<!--<div class="tba">This website is under construction, some pages might be incomplete. Please check back soon! </div>-->
 
 <div class="long-5">
 </div>

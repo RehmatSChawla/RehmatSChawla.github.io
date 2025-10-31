@@ -2,7 +2,7 @@
 
 layout: page
 title: Large-colour Wilson Loops using Matrix Models
-description: Studying large-colour Wilson loops in $\mathcal N=4$ SYM as a test of the $\mathrm{AdS}$/CFT Correspondence.
+description: Studying large-colour Wilson loops in $$\mathcal N=4$$ SYM as a test of the $$\mathrm{AdS}$$/CFT Correspondence.
 # img: assets/img/projects/chern-simons.png
 importance: 2
 category: Research
@@ -12,9 +12,9 @@ category: Research
 
 An internship under Dr Victor Mishnyakov, Stockholm University, as part of the NORDITA Summer Internship Program, 2025.
 
-- Using Markov Chain Monte Carlo methods for Matrix Model computations, eg Wilson loops in representations $\mathrm{Sym}^k,\Lambda^k$
-- Studied how supersymmetric localisation connects Wilson loops in $\mathcal N=4$ SYM to Matrix Models
-- Using Wilson loops in large-$N$, large-$k$ limit as a test of the $\mathrm{AdS}$/CFT Correspondence
+- Using Markov Chain Monte Carlo methods for Matrix Model computations, eg Wilson loops in representations $$\mathrm{Sym}^k,\Lambda^k$$
+- Studied how supersymmetric localisation connects Wilson loops in $$\mathcal N=4$$ SYM to Matrix Models
+- Using Wilson loops in large-$$N$$, large-$$k$$ limit as a test of the $$\mathrm{AdS}$$/CFT Correspondence
 
 
 <iframe

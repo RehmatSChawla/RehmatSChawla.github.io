@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: $p$-Form Gauge Theories
+title: $$p$$-Form Gauge Theories
 description: Various problems in higher-form electromagnetism using its democratic formulation.
 # img: assets/img/projects/chern-simons.png
 importance: 1
@@ -17,4 +17,4 @@ Anomaly Inflow: Multiple global symmetries can have 't Hooft anomalies which pre
 
 Generalised Symmetries and SymmTFTs: Higher-form electromagnetism is built upon a differential-form-like gauge symmetry, which is one of the kinds of non-group symmetries which are explored in the field of generalised symmetries. There has been considerable progress in recent years in understanding these broader ideas of what symmetries can be, connecting them to topological operators ('Symmetry Defect Operators') and also using one-higher-dimensional topological theories to encode, define and exploit the symmetries of a theory ('SymmTFT', i.e. Symmetry Topological Field Theory). I am reading about these ideas and looking for problems connected to my advisor's work. I have previously studied Topological Quantum Field Theories; see <a href="https://www.rehmatschawla.github.io/projects/TQFTs">TQFTs</a>.
 
-I am also looking into generalising the Stueckelberg formulation to $p$ -form fields and exploring the consistent quantisation of such a theory.
+I am also looking into generalising the Stueckelberg formulation to $$p$$-form fields and exploring the consistent quantisation of such a theory.

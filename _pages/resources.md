@@ -10,8 +10,7 @@ horizontal: false
 ---
 
 <div class="tba">
-This page is under construction. Please check back soon!
-Expected date of completion: 15th August 2024.
+This page is under construction. There are many more notes to be uploaded in the Markdown section. Please check back soon!
 </div>
 
 <div class="projects">

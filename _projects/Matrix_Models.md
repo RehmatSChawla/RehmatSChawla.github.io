@@ -2,7 +2,7 @@
 
 layout: page
 title: Large-colour Wilson Loops using Matrix Models
-description: Studying large-colour Wilson loops in $$\mathcal N=4$$ SYM as a test of the $$\mathrm{AdS}$$/CFT Correspondence.
+description: Studying large-colour Wilson loops in Super-Yang-Mills as a test of the AdS/CFT Correspondence.
 # img: assets/img/projects/chern-simons.png
 importance: 2
 category: Research

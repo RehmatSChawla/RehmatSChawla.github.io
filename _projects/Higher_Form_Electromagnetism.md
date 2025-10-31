@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: $$p$$-Form Gauge Theories
+title: Higher Form Gauge Theories
 description: Various problems in higher-form electromagnetism using its democratic formulation.
 # img: assets/img/projects/chern-simons.png
 importance: 1

@@ -6,4 +6,4 @@ importance: 3
 category: Notion
 ---
 
-<object data="../assets/pdf/CMP.pdf" width="100%" height="1200px" type="application/pdf">
+<object data="/assets/pdf/CMP.pdf" width="100%" height="1200px" type="application/pdf">

@@ -6,4 +6,4 @@ importance: 2
 category: Notion
 ---
 
-<embed src="../assets/pdf/Electromagnetism.pdf" width="100%" height="1200px" type="application/pdf">
+<embed src="/assets/pdf/Electromagnetism.pdf" width="100%" height="1200px" type="application/pdf">

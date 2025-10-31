@@ -3,7 +3,7 @@ layout: page
 title: Topological Quantum Field Theories
 description: Topological Quantum Field Theories, specifically non-abelian Chern Simons theories, and their applications.
 importance: 1
-category: Markdown
+category: Coursework/Self-Study
 ---
 <div class="tba">This page is under construction. Please check back soon!</div>
 

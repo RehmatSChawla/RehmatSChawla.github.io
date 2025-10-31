@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my projects, both academic and personal.
 nav: true
 nav_order: 2
-display_categories: [Research, Courses, Hobbies]
+display_categories: [Research, Coursework/Self-Study, Hobbies]
 horizontal: false
 # toc:
 #   sidebar: right

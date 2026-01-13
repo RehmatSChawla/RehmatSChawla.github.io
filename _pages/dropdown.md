@@ -12,7 +12,6 @@ children:
       permalink: /blog/tag/poetry/
     # - title: Teaching
     #   permalink: /teaching/
-    - title: divider
     - title: Photography
       permalink: /photography/
     - title: My Mind in Media

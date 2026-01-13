@@ -7,6 +7,7 @@ tags: poetry math
 # categories: sample-posts
 giscus_comments: true
 related_posts: true
+featured: true
 ---
 
 <div class="poem">

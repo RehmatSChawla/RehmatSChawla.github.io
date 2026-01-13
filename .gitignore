@@ -16,3 +16,4 @@ gallery-generator.py
 poem_posts_draft
 post_drafts
 .zed
+.venv

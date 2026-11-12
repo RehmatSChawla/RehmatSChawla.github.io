@@ -10,8 +10,6 @@ nav: true
 
 <h3>Get in touch!</h3>
 <h5>
-<p><i class="fas fa-envelope"></i> rehmat.chawla24 ( at ) imperial.ac.uk</p>
-<p><i class="fas fa-envelope"></i> rehmatsingh501 ( at ) gmail.com</p>
 <p><a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i> GitHub : https://github.com/{{ site.github_username }}</a></p>
 <p><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i> LinkedIn</a></p>
 <p><a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fab fa-stack-overflow"></i> StackOverflow </a></p>

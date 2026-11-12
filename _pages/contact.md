@@ -10,7 +10,7 @@ nav: true
 
 <h3>Get in touch!</h3>
 <h5>
-<p><a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i> GitHub : https://github.com/{{ site.github_username }}</a></p>
+<p><a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i> GitHub : "https://github.com/{{ site.github_username }}"</a></p>
 <p><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i> LinkedIn</a></p>
 <p><a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fab fa-stack-overflow"></i> StackOverflow </a></p>
 </h5>
